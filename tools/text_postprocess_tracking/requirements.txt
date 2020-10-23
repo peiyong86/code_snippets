@@ -1,0 +1,2 @@
+char-featurizer=1.0.0
+edit-distance=1.0.4
